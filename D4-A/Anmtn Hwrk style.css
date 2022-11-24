@@ -1,6 +1,6 @@
 body {
     margin: 50;
-    position: absolute;
+    position:absolute;
 }
 
 .pntrst-card{
@@ -10,7 +10,7 @@ body {
     margin-right: auto;
     margin-left: auto;
     margin-top: 25vh;
-    border-radius: 10px;
+    border-radius: 69px;
     position: relative;
     user-select: none;
 }
